@@ -1,0 +1,20 @@
+form{
+    bottom: 50px;
+    right: 200px;
+}
+
+
+.form{
+    position: relative;
+    left: 550px;
+    bottom: -150px;
+    
+}
+
+form{
+    width: 500px;
+}
+
+form input {
+    font-size: larger;
+}

@@ -1,0 +1,40 @@
+*{
+    color: white;
+}
+body{
+background-color: #3a3a3afe;
+
+}
+h1{
+    text-align: center;
+    border-style: outset;
+    border-color: rgb(8, 7, 7);
+    color: rgb(131, 17, 40);
+    background-color: rgb(199, 199, 199);
+
+}
+#test{
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: progress;
+    border-width: 25px;
+
+    
+
+    
+}
+h2:hover{
+    background-color: rgb(44, 220, 27);
+    cursor: progress;
+    text-decoration: none;
+    border-width: 25px;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    border: solid;
+}
+.foot{
+    text-align: center;
+}
